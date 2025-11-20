@@ -114,7 +114,7 @@ If you'd like to connect or collaborate, feel free to reach out:
 
 ## ✅ Author
 
-**Md Faiyyaz Ansari**
+**Md Shan Ansari**
 Web Developer | JavaScript | Node.js | Frontend & Backend
 
 ---
